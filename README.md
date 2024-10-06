@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArtemisMagis
+- 👋 Hi, I’m @pixeldrifty
 - 👀 I’m interested in pixel art & coding
 - 🌱 I’m currently learning blender
 - 😄 Pronouns: he/him
